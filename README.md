@@ -1,7 +1,7 @@
 # quant-perf-measures
 A comprehensive list of quantitative finance portfolio/strategy performance measures.
 
-# Quantitative Finance Performance Measures: Detailed Explanations with Code Snippets
+# Quantitative Finance Performance Measures with Explanation and Implementation
 
 ## 1. Total Return
 
